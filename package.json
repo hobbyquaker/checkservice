@@ -1,0 +1,29 @@
+{
+  "name": "checkservice",
+  "version": "1.0.0",
+  "description": "Check if a service is listening on a tcp port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hobbyquaker/checkservice"
+  },
+  "keywords": [
+    "tcp",
+    "listen",
+    "port",
+    "service",
+    "daemon",
+    "check",
+    "open",
+    "scan"
+  ],
+  "author": "Sebastian Raff (https://github.com/hobbyquaker)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobbyquaker/checkservice/issues"
+  },
+  "homepage": "https://github.com/hobbyquaker/checkservice"
+}
