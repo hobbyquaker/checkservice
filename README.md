@@ -11,7 +11,7 @@
 ```npm install checkservice```
 
 ```Javascript
-var checkservice = require('./index.js');
+var checkservice = require('checkservice');
 
 checkservice('example.com', 80, function (err, res) {
     if (err) {

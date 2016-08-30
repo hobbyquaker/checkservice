@@ -1,6 +1,6 @@
 {
   "name": "checkservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a service is listening on a tcp port",
   "main": "index.js",
   "scripts": {
